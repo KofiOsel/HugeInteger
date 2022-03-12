@@ -1,0 +1,10 @@
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\bin\Debug\HugeInteger.exe.config
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\bin\Debug\HugeInteger.exe
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\bin\Debug\HugeInteger.pdb
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.AssemblyReference.cache
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.Properties.Resources.resources
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.GenerateResource.cache
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.csproj.CoreCompileInputs.cache
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.exe
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.pdb
+C:\Users\kofi3\OneDrive\Documents\C#\HugeInteger\HugeInteger\obj\Debug\HugeInteger.Form1.resources
